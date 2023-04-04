@@ -9,8 +9,3 @@
 7. `cp -r deskjam/* [ship-name]/deskjam` to copy the contents of this repo into your new desk.
 8. At the dojo command line `|commit %deskjam`.
 9. Install with `|install our %deskjam`.
-
-## Usage
-1. To download a desk as a jam file go to `[your-domain-name]/apps/deskjam/download`.
-2. To download a subset of the files in this desk as a jam file click the desk name on this page.
-3. To upload a jammed desk go to `[your-domain-name]/apps/deskjam` and follow the instructions there.
