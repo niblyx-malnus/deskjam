@@ -9,3 +9,6 @@
 7. `cp -r deskjam/* [ship-name]/deskjam` to copy the contents of this repo into your new desk.
 8. At the dojo command line `|commit %deskjam`.
 9. Install with `|install our %deskjam`.
+
+## Usage
+Click on the `deskjam` tile displayed in Landscape.
