@@ -1,5 +1,5 @@
 # deskjam
-This project currently lives [here](https://github.com/tinnus-napbus/deskjam).
+The up-to-date project currently lives [here](https://github.com/tinnus-napbus/deskjam).
 
 ## Installation
 1. Clone this repo.
